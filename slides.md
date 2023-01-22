@@ -29,9 +29,9 @@ Note:
 <!-- .slide: data-menu-title="Introductie (1)" -->
 ## Wat is Toegankelijkheid
 
- Is dit fysieke toegankelijkheid?   <!-- .element: class="fragment" data-fragment-index="1" -->
+VN-Verdrag Handicap - 2016   <!-- .element: class="fragment" data-fragment-index="1" -->
 
- Dat is uiteraard randvoorwaarde!   <!-- .element: class="fragment" data-fragment-index="2" -->
+ Fysieke toegankelijkheid    <!-- .element: class="fragment" data-fragment-index="2" -->
 
  Maar ook: Kunnen deelnemen aan de maatschappij:    <!-- .element: class="fragment" data-fragment-index="3" -->
 
@@ -41,10 +41,28 @@ Note:
 
  Sport, vrije tijd      <!-- .element: class="fragment" data-fragment-index="6" -->
 
- etcetera               <!-- .element: class="fragment" data-fragment-index="6" -->
+ etc                    <!-- .element: class="fragment" data-fragment-index="6" -->
 
 Note:
-- In de volgende slides voorbeelden en aandachtspunmten
+- Fysieke toegankelijkheid is randvoorwaarde
+- In volgende slides voorbeelden en aandachtspunmten
+
+--
+
+<!-- .slide: data-menu-title="Introductie (2)" -->
+## Communicatie 
+
+- Website toegankelijkheid (screen readers)
+
+- Toegankelijke documenten (PDF)
+
+- Kleurgebruik
+
+- Tekst in foto's
+
+- Tolk Nederlandse Gebaren Taal
+
+- Audio descriptie
 
 ---
 
@@ -129,23 +147,6 @@ Simpel kip en ei verhaal!
 
 Note:
 
---
-
-<!-- .slide: data-menu-title="Voorbeelden (9)" -->
-## Communicatie 
-
-- Website toegankelijkheid (screen readers)
-
-- Toegankelijke documenten (PDF)
-
-- Kleurgebruik
-
-- Tekst in foto's
-
-- Tolk Nederlandse Gebaren Taal
-
-- Audio descriptie
-
 ---
 
 <!-- .slide: data-menu-title="Introductie (4)" data-transition="zoom" -->
@@ -175,7 +176,7 @@ Betrek ervaringsdeskundigen
 
 Vanaf de gebiedsvisie
 
-onderdeel van het PvE
+Toegankelijkheid meenemen in PvE
 
 Hoeft niet meer te kosten!
 
@@ -188,15 +189,13 @@ Note:
 <!-- .slide: data-menu-title="Toelichting website (1)" -->
 ## Toelichting website
 
-VN-Verdrag Handicap - 2016   <!-- .element: class="fragment" data-fragment-index="1" -->
+Gastvrijheid                 <!-- .element: class="fragment" data-fragment-index="1" -->
 
-Gastvrijheid                 <!-- .element: class="fragment" data-fragment-index="2" -->
+Betrokkenheid laten zien     <!-- .element: class="fragment" data-fragment-index="2" -->
 
-Betrokkenheid laten zien     <!-- .element: class="fragment" data-fragment-index="3" -->
+Bewustwording vergroten      <!-- .element: class="fragment" data-fragment-index="3" -->
 
-Bewustwording vergroten      <!-- .element: class="fragment" data-fragment-index="4" -->
-
-Stimuleren                   <!-- .element: class="fragment" data-fragment-index="5" -->
+Stimuleren                   <!-- .element: class="fragment" data-fragment-index="4" -->
 
 
 Note:
@@ -256,7 +255,7 @@ Note:
   - Openingstijden: pagina Kalender 
 
 Note:
-- Website content pagina is alleen *structuur) voor ToegankelijkGroningen.nl
+- Website content pagina is alleen (structuur) voor ToegankelijkGroningen.nl
 - Pagina's Call to action, Media en prijzen zijn vanuit VisitGroningen
 
 ---
