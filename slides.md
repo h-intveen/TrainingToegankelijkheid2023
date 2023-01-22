@@ -1,5 +1,5 @@
 
-<!-- .slide: data-menu-title="Frontpage" data-background-image="images/accessibility4pics.png" data-background-opacity="0.1" background-size: contain -->
+<!-- .slide: data-menu-title="Frontpage"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.2"; background-size:contain -->
 # Training Toegankelijkheid
 ?-?-2023
 
@@ -22,7 +22,7 @@ Note:
  4. Oplossing: plannen!
  5. Toelichting website
  6. Inhoud website
- 7. Vragen?
+ 7. Vragen
 
 ---
 
@@ -35,13 +35,13 @@ VN-Verdrag Handicap - 2016   <!-- .element: class="fragment" data-fragment-index
 
  Maar ook: Kunnen deelnemen aan de maatschappij:    <!-- .element: class="fragment" data-fragment-index="3" -->
 
- vervoer, zorg          <!-- .element: class="fragment" data-fragment-index="4" -->
+ Vervoer, Zorg          <!-- .element: class="fragment" data-fragment-index="4" -->
 
- Onderwijs, werk        <!-- .element: class="fragment" data-fragment-index="5" -->
+ Onderwijs, Werk        <!-- .element: class="fragment" data-fragment-index="5" -->
 
  Sport, vrije tijd      <!-- .element: class="fragment" data-fragment-index="6" -->
 
- etc                    <!-- .element: class="fragment" data-fragment-index="6" -->
+ etc.                    <!-- .element: class="fragment" data-fragment-index="6" -->
 
 Note:
 - Fysieke toegankelijkheid is randvoorwaarde
@@ -180,6 +180,8 @@ Toegankelijkheid meenemen in PvE
 
 Hoeft niet meer te kosten!
 
+![](images/accessibility4pics.png)<!-- .element height="80%" width="40%" -->
+
 Note:
 - Nota bene: Tekeningen lezen
 - Aspecten uitgelegd aan de hand van de website
@@ -268,7 +270,7 @@ Content 3.b
 ---
 
 <!-- .slide: data-menu-title="Vragen" data-transition="convex" -->
-##  Vragen?
+##  Vragen
 
 ![Vragen](images/raising_questions.jpg)<!-- .element height="90%" width="90%" -->
 
@@ -276,11 +278,10 @@ Content 3.b
 
 ## Tekening lezen 
 
-Korte introductie tekenimng lezen
+Korte introductie tekening lezen
 
 ---
 
-<!-- .slide: data-background-image="images/Thats_all_Folks.jpg" data-background-opacity="1.0" data-background-size="contain" style="color:white" -->
-## Bedankt
+![Vragen](images/Thats_all_Folks.jpg)<!-- .element height="90%" width="90%" -->
 
 **Bedankt voor uw deelname!**
