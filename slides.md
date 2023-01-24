@@ -17,12 +17,12 @@ Note:
 ## Agenda
 
  1. Introductie
- 2. Voorbeelden
- 3. Om wie gaat het?
- 4. Oplossing: plannen!
- 5. Toelichting website
- 6. Inhoud website
- 7. Vragen
+ 2. Om wie gaat het?
+ 3. Toelichting website
+ 4. Inhoud website
+ 5. Toegankelijkheid plannen!
+ 6. Vragen
+ 7. Tekening lezen
 
 ---
 
@@ -44,8 +44,20 @@ VN-Verdrag Handicap - 2016   <!-- .element: class="fragment" data-fragment-index
  etc.                    <!-- .element: class="fragment" data-fragment-index="6" -->
 
 Note:
-- Fysieke toegankelijkheid is randvoorwaarde
-- In volgende slides voorbeelden en aandachtspunmten
+- Fysieke toegankelijkheid is randvoorwaarde, als je er niet kunt komen...
+
+--
+
+
+<!-- .slide: data-menu-title="Voorbeelden (8)" -->
+## Glascontainers
+![Glascontainer onbereikbaar](images/Alvalcontainer-onbereikbaar.jpg)<!-- .element height="50%" width="50%" -->
+
+![Onhandig containertuintje](images/Container-tuintje.jpg)<!-- .element height="50%" width="50%" -->
+
+Note:
+- Meedoen aan de maatschappij wordt je niet altijd makkelijk gemnaakt
+- Tuintje is Goed bedoeld, maar niet afgestemd en ios belemmerend
 
 --
 
@@ -66,89 +78,6 @@ Note:
 
 ---
 
-<!-- .slide: data-menu-title="Voorbeelden (1)" -->
-# Laadpalen
-
-![](images/Laadpaal-trottoir.jpeg)<!-- .element height="80%" width="80%" -->
-
-Note:
--  Te smalle trottoirs - laadpalen
-
---
-
-<!-- .slide: data-menu-title="Voorbeelden (2)" -->
-## Lantaarnpalen
-
-![](images/Lantaarn-in-geleidelijn.png)<!-- .element height="56%" width="60%" -->
-
-Note:
--  Geleidelijnen - obstakels, lantaarnpalen
-
---
-
-<!-- .slide: data-menu-title="Voorbeelden (3)" -->
-## Fietsoverlast
-
-![Fietsoverlast op de stoep](images/Fietsoverlast-1.png)<!-- .element height="90%" width="90%" -->
-
-Note:
-- Bewustwording burgers
-- Vooral in de stad Groningen is fietsoverlast een groot probleem.
-
---
-
-<!-- .slide: data-menu-title="Voorbeelden (4)" -->
-## Parkeerborden
-
-![Parkeerbord verspert stoep](images/ParkeerbordVersperring.JPG)<!-- .element height="90%" width="90%" -->
-
-Note:
-- Bewustwording overheid & uitvoerders
-- Niet alleen issue voor rolstoelen, ook blinden, rollators, kinderwagens
-
---
-
-<!-- .slide: data-menu-title="Voorbeelden (5)" -->
-## Blokkades
-
-![Versperring doorgang zebra](images/Plaatsing-kiosk.png)<!-- .element height="90%" width="90%" -->
-
-Note:
-- Versperring doorgang zebra
-
---
-
-<!-- .slide: data-menu-title="Voorbeelden (6)" -->
-## Abri toegankelijkheid
-![Abri toegankelijkheid](images/Abri-toegankelijkheid.jpg)<!-- .element height="90%" width="90%" -->
-
-Note:
-- Soms kun je niet eens op de verhoging komen
-- Je kunt er nauwelijks tussendoor
-- Je kunt nauwelijks schuilen bij regen
-
---
-
-<!-- .slide: data-menu-title="Voorbeelden (7)" -->
-## Monumenten
-
-![Munumentaal pand](images/20120411-Feithhuis-Groningen.jpg)<!-- .element height="90%" width="90%" -->
-
-Note:
-Gebruikelijk argument: hier komt nooit iemand met een rolstoel
-Dat is nogal logisch als je met een rolstoel daar niets kunt
-Simpel kip en ei verhaal!
-
---
-
-<!-- .slide: data-menu-title="Voorbeelden (8)" -->
-## Glascontainers
-![Glascontainers= onbereikbaar](images/Alvalcontainer-onbereikbaar.jpg)<!-- .element height="50%" width="50%" -->
-
-Note:
-
----
-
 <!-- .slide: data-menu-title="Introductie (4)" data-transition="zoom" -->
 ## Om wie gaat het
 
@@ -166,25 +95,6 @@ Note:
 
 Note: 
 - Zie we website van "De week van de Toegankelijkheid"
-
----
-
-<!-- .slide: data-menu-title="Introductie (6)" data-background-image="images/puzzle.jpg" data-background-opacity="0.1" background-size: contain -->
-## Toegankelijkheid plannen
-
-Betrek ervaringsdeskundigen
-
-Vanaf de gebiedsvisie
-
-Toegankelijkheid meenemen in PvE
-
-Hoeft niet meer te kosten!
-
-![](images/accessibility4pics.png)<!-- .element height="80%" width="40%" -->
-
-Note:
-- Nota bene: Tekeningen lezen
-- Aspecten uitgelegd aan de hand van de website
 
 ---
 
@@ -281,13 +191,30 @@ Note:
 
 --
 
-## OV \& Parkeren
+## OV
 
-Openbaar vervoer
 - Afstand tot halte of entree
 - Route naar halte of entree obstakelvrij
 - Route met contrastmarkering/geleidelij?
 
+![Laantaarnpaal in geleidelijn](images/Lantaarn-in-geleidelijn.png)<!-- .element height="56%" width="60%" -->
+
+![Abri toegankelijkheid](images/Abri-toegankelijkheid.jpg)<!-- .element height="90%" width="90%" -->
+
+Note:
+- Geleidelijn:
+  - moet veilige route voor blinde/slechtziende zijn
+  - Gemeente en aannemer moeten beter bewust worden
+  - Handhaven helaas niet wettelijk verplicht
+
+- Abri:
+  -  Soms kun je niet eens op de verhoging komen
+  -  Je kunt er nauwelijks tussendoor
+  -  Je kunt nauwelijks schuilen bij regen
+
+--
+
+## Parkeren
 Parkeren
 - Parkeerplaats(en) op eigen terrein
 - Gehandicaptenparkeerplaats op eigen terrein?
@@ -301,7 +228,18 @@ Parkeren
 - Stoeprand verlaagd
 - Hellingbaan aanwezig
 
-![Hellingbaan versperd](images/Helling-ontoegankelijk.jpg)<!-- .element height="40%" width="40%" -->
+![Laadpaal verspert trottoir](images/Laadpaal-trottoir.jpeg)<!-- .element height="50%" width="50%" -->
+
+![Fietsoverlast op de stoep](images/Fietsoverlast-1.png)<!-- .element height="90%" width="90%" -->
+
+![Parkeerbord verspert stoep](images/ParkeerbordVersperring.JPG)<!-- .element height="90%" width="90%" -->
+
+![Versperring doorgang zebra](images/Plaatsing-kiosk.png)<!-- .element height="90%" width="90%" -->
+
+Note:
+- Niet alleen issue voor rolstoelen, ook blinden, rollators, kinderwagens
+- Bewustwording overheid & uitvoerders
+- Bewustwording burgers, vooral in de stad Groningen is fietsoverlast een groot probleem.
 
 --
 
@@ -315,6 +253,15 @@ Parkeren
 - Tussendeur (met dranger)
 - Opstelruimte bij deur (scootmobiel/rollator)
 - Oplaadpunten accu's (scootmobiel/fiets)
+
+![Munumentaal pand](images/20120411-Feithhuis-Groningen.jpg)<!-- .element height="90%" width="90%" -->
+
+![Hellingbaan versperd](images/Helling-ontoegankelijk.jpg)<!-- .element height="40%" width="40%" -->
+
+Note:
+Gebruikelijk argument: hier komt nooit iemand met een rolstoel
+Dat is nogal logisch als je met een rolstoel daar niets kunt
+Simpel kip en ei verhaal!
 
 --
 
@@ -341,6 +288,8 @@ Note:
 - Gebouw rolstoel toegankelijk
 - Glazen scheidingswanden/deuren
 
+![Schuine paal Forum](images/Schuine-paal-Forum.JPG)<!-- .element height="90%" width="90%" -->
+
 Note:
 - Bewegwijzering contrast (slectziend) en kleustelling (kleurenblind)
 - Voor slechtzienden zijn glazen wanden een risico (stickeren)
@@ -356,7 +305,11 @@ Note:
 - Lift bedieningspaneel met relief
 - Verdiepingen hoorbaar aangegeven
 
-![Lift bij trap](images/jan???)<!-- .element height="50%" width="50%" -->
+![Lift bij trap](images/Lift-trap-gevaarlijk.JPG)<!-- .element height="50%" width="50%" -->
+![MiVa-bedieningspaneelLift](images/MiVa-Bedieningspaneel-lift.jpg)<!-- .element height="50%" width="50%" -->
+
+Note:
+- Spiegel op achterwand lift
 
 --
 
@@ -368,7 +321,10 @@ Note:
 - Trap met doorlopende leuning
 - Traplift aanwezig
 
-![Trap markering](images/dubbele-trap-markering.jpg)<!-- .element height="50%" width="50%" -->
+[![Trap markering](images/dubbele-trap-markering.jpg)<!-- .element height="50%" width="50%" -->
+
+Note:
+- Paaltje in trapafgang
 
 --
 
@@ -384,7 +340,13 @@ Note:
 - Spegel bruikbaar rolstoeler (onderkant 70 cm)
 - Verschoonvoorziening
 
-![MiVa-toilet](images/???)<!-- .element height="50%" width="50%" -->
+![MiVa-toilet te krap](images/Toilet-Vapiano.JPG)<!-- .element height="50%" width="50%" -->
+![MiVa-toilet wastafel](images/Toilet-goede-wastafel.JPG)<!-- .element height="50%" width="50%" -->
+![MiVa-toilet deurbeugel](images/Toiletdeur-met-beugel.jpg)<!-- .element height="50%" width="50%" -->
+![MiVa-toilet toilet met steun](images/Toilet-MiVa.jpg)<!-- .element height="50%" width="50%" -->
+
+Note:
+- MiVa-Toilet ontbreekt nog papierrolhouder em handdoek: in overleg met ervaringsdeskundigen
 
 --
 
@@ -430,6 +392,8 @@ Note:
 - Tafels verlicht
 - Parsols aanwezig
 
+![Uitstal beleid voorbeeld 3](images/Uitstalling-beleid-2.JPG)<!-- .element height="80%" width="40%" -->
+
 --
 
 ## Evenementzaal
@@ -440,6 +404,12 @@ Note:
 - Rolstoelplaatsen vooraf reserveren
 - Pauze voorzieningen goed bereikbaar
 - Rolstoeltoegankelijke garderobe
+
+![Bioscoprzaal rolstoelplek vooraan](images/Bioscoopzaal-Forum.jpg)<!-- .element height="80%" width="40%" -->
+
+Note:
+- Plan rolstoelplekken: zo moet het niet.
+- Bovendien wil je toch naast je medebezoeker zitten: samen uit?
 
 --
 
@@ -454,13 +424,24 @@ Note:
   - Hoogteverschil hellingbaan
 - Nooddeur met weing kracht te openen
 
+![Nooduitgang niet doorgankelijk](images/Nooduitgang-niet-doorgankelijk.JPG)<!-- .element height="80%" width="40%" -->
+
 ---
 
-<!-- .slide: data-menu-title="Website inhoud (2)" -->
-### Inhoud Kenmerken
+<!-- .slide: data-menu-title="Introductie (6)" data-background-image="images/puzzle.jpg" data-background-opacity="0.1" background-size: contain -->
+## Toegankelijkheid plannen
 
-Content 3.b
+Betrek ervaringsdeskundigen
 
+Vanaf de gebiedsvisie
+
+Toegankelijkheid meenemen in PvE
+
+Hoeft niet meer te kosten!
+
+![Uitstal beleid voorbeeld 1](images/Uitstalling-beleid-1.JPG)<!-- .element height="80%" width="40%" -->
+![Uitstal beleid voorbeeld 2](images/Uitstalling-beleid-2.JPG)<!-- .element height="80%" width="40%" -->
+!
 ---
 
 <!-- .slide: data-menu-title="Vragen" data-transition="convex" -->
@@ -476,6 +457,6 @@ Korte introductie tekening lezen
 
 ---
 
-![Vragen](images/Thats_all_Folks.jpg)<!-- .element height="90%" width="90%" -->
+![That's all folks](images/Thats_all_Folks.jpg)<!-- .element height="90%" width="90%" -->
 
 **Bedankt voor uw deelname!**
