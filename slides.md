@@ -243,7 +243,7 @@ Note:
 ---
 
 <!-- .slide: data-menu-title="Website inhoud (1)" -->
-## Inhoud Content \& Contact
+## Content \& Contact
 
 - Website
   - Naam
@@ -259,6 +259,200 @@ Note:
 Note:
 - Website content pagina is alleen (structuur) voor ToegankelijkGroningen.nl
 - Pagina's Call to action, Media en prijzen zijn vanuit VisitGroningen
+
+--
+
+## Toegankelijkheid
+
+Toegankelijk voor:
+- Mensen met een Auditieve beperking
+- Mensen met een Mobiliteit beperking
+- Mensen met eenVisuele beperking
+
+Faciliteiten:
+- Persoonlijke begeleiding
+- Minder valide toilet
+- Hulp- of geleidehond toegestaan
+- Ringleiding aanwezig
+
+Note:
+- Auditieve: bijvoorbeeld ook balie ringleiding voor slechthorenden
+- Visuele: begeleiding naar bijv. zitplaats
+
+--
+
+## OV \& Parkeren
+
+Openbaar vervoer
+- Afstand tot halte of entree
+- Route naar halte of entree obstakelvrij
+- Route met contrastmarkering/geleidelij?
+
+Parkeren
+- Parkeerplaats(en) op eigen terrein
+- Gehandicaptenparkeerplaats op eigen terrein?
+
+--
+
+## Aanlooproute
+
+- Route (van parkeerplaats) naar entree obstakelvrij
+- Route (van parkeerplaats) naar entree verhard?
+- Stoeprand verlaagd
+- Hellingbaan aanwezig
+
+![Hellingbaan versperd](images/Helling-ontoegankelijk.jpg)<!-- .element height="40%" width="40%" -->
+
+--
+
+## Entree
+
+- Hoofdingang toegankelijk
+- Alternatieve ingang (indien niet)
+- Entreedeur drempelvrij (max. 2 cm)
+- Deurbel bereikbaar?
+- Entreedeur automatisch
+- Tussendeur (met dranger)
+- Opstelruimte bij deur (scootmobiel/rollator)
+- Oplaadpunten accu's (scootmobiel/fiets)
+
+--
+
+## Ontvangst
+
+- Balie aanwezig
+- Balie aanwezig bij entree
+- Balie verlaagd bij entree
+- Zitgelegenheid bij balie
+- Draagbare pin-automat bij balie
+- Pin met relief (slechtzienden)
+
+![Verlaagde balie](images/Onderrijdbare-balie.jpg)<!-- .element height="50%" width="50%" -->
+
+Note:
+- verlaagde balie: vriendelijke (foto)
+
+--
+
+## Doorgankelijkheid
+
+- Contrasterende bewegwijzering
+- Gebouw drempelvrij
+- Gebouw rolstoel toegankelijk
+- Glazen scheidingswanden/deuren
+
+Note:
+- Bewegwijzering contrast (slectziend) en kleustelling (kleurenblind)
+- Voor slechtzienden zijn glazen wanden een risico (stickeren)
+
+--
+
+## Lift
+
+- Personenlift aanwezig
+- Liftdeur electrisch
+- Liftdeur te openen via knop op de wand
+- Lift bedienbaar vanuit rolstoel
+- Lift bedieningspaneel met relief
+- Verdiepingen hoorbaar aangegeven
+
+![Lift bij trap](images/jan???)<!-- .element height="50%" width="50%" -->
+
+--
+
+## Trap
+
+- Trap met contrasterende markering
+- Trap met leuning aan 1 zijde
+- Trap met leuning aan beide zijden
+- Trap met doorlopende leuning
+- Traplift aanwezig
+
+![Trap markering](images/dubbele-trap-markering.jpg)<!-- .element height="50%" width="50%" -->
+
+--
+
+## Santitair
+
+- Bewegwijzering naar toilet
+- Route toilet obstakelvrij
+- Vrije draaicirkel 150 cm in toilet
+- Toilet met armsteunen/beugels
+- Wastafel onderrijdbaar
+- Kraan bedienbaar vanuit roilstoel
+- Alarmkoord aanwezig
+- Spegel bruikbaar rolstoeler (onderkant 70 cm)
+- Verschoonvoorziening
+
+![MiVa-toilet](images/???)<!-- .element height="50%" width="50%" -->
+
+--
+
+## Restaurant
+
+- Route naar tafel obstakelvrij
+- Tafels onderrijdbaar (min. 70 cm)
+- Stoelen met rug en armleuningen
+- Tafels verlicht
+
+--
+
+## Hotel
+
+- Route naar kamer drempelvrij
+- Route met versmallingen
+- Kamerdeur metr weinig kracht te openen
+- Hoogte lichtschakelaar
+- Voldoende opstelruimte naast bed
+- Is er een hoog/laag bed
+- Badkamerdeur met weinig kracht te openen
+- Spiegel bruikbaar rolstoeler (onderkant 70 cm)
+- Badkamner voorzien van anti-slip
+- Douchezitje aanwezig
+- Douchezitje met armsteunen
+- Douchekraan binnen handbereik
+
+--
+
+## Bar
+
+- Route naar bar drempelvrij
+- Route naar bar minimaal 80 cm breed
+- Route naar bar met versmallingen
+
+--
+
+## Terras
+
+- Doorgang naar terras voldoende breed (80 cm)
+- Tafels onderrijdbaar (min. 70 cm)
+- Stoelen met rug en armleuningen
+- Tafels verlicht
+- Parsols aanwezig
+
+--
+
+## Evenementzaal
+
+- Zaal met goede akoestiek
+- Aangepaste zit/rolstoelplaatsen
+- Rolstoelplaatsen beschikbaar
+- Rolstoelplaatsen vooraf reserveren
+- Pauze voorzieningen goed bereikbaar
+- Rolstoeltoegankelijke garderobe
+
+--
+
+## Uitgang
+
+- Nooduitgang toegankelijk
+- Vluchtroute drempelvrij
+- Vluchtroute verhard
+- vluchtroute breed genoeg (80 cm)
+- Vluchtroute met hellingbaan
+  - Lengte hellingbaan
+  - Hoogteverschil hellingbaan
+- Nooddeur met weing kracht te openen
 
 ---
 
