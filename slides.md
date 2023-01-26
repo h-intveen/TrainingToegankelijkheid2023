@@ -5,7 +5,7 @@
 
 Note:
 - Printen: kan vanuit Chrome met url suffix: ?print-pdf
-- f = full screen
+- f = full screen (escape to exit)
 - o = overview slides
 - g = go to slide
 - s = speaker notes
@@ -26,7 +26,7 @@ Note:
 
 ---
 
-<!-- .slide: data-menu-title="Introductie (1)" -->
+<!-- .slide: data-menu-title="Introductie (1)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
 ## Wat is Toegankelijkheid
 
 VN-Verdrag Handicap - 2016   <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -48,21 +48,8 @@ Note:
 
 --
 
-
-<!-- .slide: data-menu-title="Voorbeelden (8)" -->
-## Glascontainers
-![Glascontainer onbereikbaar](images/Alvalcontainer-onbereikbaar.jpg)<!-- .element height="50%" width="50%" -->
-
-![Onhandig containertuintje](images/Container-tuintje.jpg)<!-- .element height="50%" width="50%" -->
-
-Note:
-- Meedoen aan de maatschappij wordt je niet altijd makkelijk gemnaakt
-- Tuintje is Goed bedoeld, maar niet afgestemd en ios belemmerend
-
---
-
-<!-- .slide: data-menu-title="Introductie (2)" -->
-## Communicatie 
+<!-- .slide: data-menu-title="Introductie (2)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
+## Ook in communicatie 
 
 - Website toegankelijkheid (screen readers)
 
@@ -75,6 +62,24 @@ Note:
 - Tolk Nederlandse Gebaren Taal
 
 - Audio descriptie
+
+--
+
+<!-- .slide: data-menu-title="Introductie (3)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
+## Ook in beeldvorming 
+
+Uw gemeentelijk:
+
+- Presentatiemateriaal
+- Foto's
+
+Zijn vast wel inclusief v.w.b. etniciteit en man/vrouw
+
+Maar gebruikt u ook gewone afbeeldingen met:
+- Rolstoeler
+- Blinde/slectziende
+- Audoidescriptie / Tolk
+
 
 ---
 
@@ -123,7 +128,7 @@ Note:
 ---
 
 <!-- .slide: data-menu-title="Toelichting website (2)" -->
-## Toelichting website
+## Waarom deze website
 
 - Wat is ToegankelijkGroningen.nl        <!-- .element: class="fragment" data-fragment-index="1" -->
 
@@ -151,6 +156,13 @@ Note:
     - Community in theorie goede oplossing, maar ontbreken van controle beperkt kwaliteit
 
 ---
+
+<!-- .slide: data-menu-title="Frontpage"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.2"; background-size:contain -->
+# Toelichting website
+
+![Accessebility 4 pics](images/accessibility4pics.png)<!-- .element height="56%" width="60%" -->
+
+--
 
 <!-- .slide: data-menu-title="Website inhoud (1)" -->
 ## Content \& Contact
@@ -215,7 +227,7 @@ Note:
 --
 
 ## Parkeren
-Parkeren
+
 - Parkeerplaats(en) op eigen terrein
 - Gehandicaptenparkeerplaats op eigen terrein?
 
@@ -288,7 +300,7 @@ Note:
 - Gebouw rolstoel toegankelijk
 - Glazen scheidingswanden/deuren
 
-![Schuine paal Forum](images/Schuine-paal-Forum.JPG)<!-- .element height="90%" width="90%" -->
+![Schuine paal Forum](images/Schuine-paal-Forum.JPG)<!-- .element height="30%" width="30%" -->
 
 Note:
 - Bewegwijzering contrast (slectziend) en kleustelling (kleurenblind)
@@ -321,7 +333,7 @@ Note:
 - Trap met doorlopende leuning
 - Traplift aanwezig
 
-[![Trap markering](images/dubbele-trap-markering.jpg)<!-- .element height="50%" width="50%" -->
+![Trap markering](images/dubbele-trap-markering.jpg)<!-- .element height="50%" width="50%" -->
 
 Note:
 - Paaltje in trapafgang
@@ -335,15 +347,18 @@ Note:
 - Vrije draaicirkel 150 cm in toilet
 - Toilet met armsteunen/beugels
 - Wastafel onderrijdbaar
-- Kraan bedienbaar vanuit roilstoel
+- Kraan bedienbaar vanuit rolstoel
 - Alarmkoord aanwezig
 - Spegel bruikbaar rolstoeler (onderkant 70 cm)
 - Verschoonvoorziening
 
-![MiVa-toilet te krap](images/Toilet-Vapiano.JPG)<!-- .element height="50%" width="50%" -->
-![MiVa-toilet wastafel](images/Toilet-goede-wastafel.JPG)<!-- .element height="50%" width="50%" -->
-![MiVa-toilet deurbeugel](images/Toiletdeur-met-beugel.jpg)<!-- .element height="50%" width="50%" -->
-![MiVa-toilet toilet met steun](images/Toilet-MiVa.jpg)<!-- .element height="50%" width="50%" -->
+--
+<split wrap="4">
+![MiVa-toilet te krap](images/Toilet-Vapiano.JPG) <!-- .element: class="fragment" data-fragment-index="1" height="50%" width="50%"  -->
+![MiVa-toilet wastafel](images/Toilet-goede-wastafel.JPG) <!-- .element: class="fragment" data-fragment-index="2" height="50%" width="50%" -->
+![MiVa-toilet deurbeugel](images/Toiletdeur-met-beugel.jpg) <!-- .element: class="fragment" height="50%" width="50%" data-fragment-index="3" -->
+![MiVa-toilet toilet met steun](images/Toilet-MiVa.jpg) <!-- .element: class="fragment" data-fragment-index="4" height="50%" width="50%" -->
+</split>
 
 Note:
 - MiVa-Toilet ontbreekt nog papierrolhouder em handdoek: in overleg met ervaringsdeskundigen
@@ -392,7 +407,7 @@ Note:
 - Tafels verlicht
 - Parsols aanwezig
 
-![Uitstal beleid voorbeeld 3](images/Uitstalling-beleid-2.JPG)<!-- .element height="80%" width="40%" -->
+![Uitstal beleid voorbeeld 3](images/Uitstalling-beleid-2.JPG)<!-- .element height="30%" width="30%" -->
 
 --
 
@@ -405,7 +420,7 @@ Note:
 - Pauze voorzieningen goed bereikbaar
 - Rolstoeltoegankelijke garderobe
 
-![Bioscoprzaal rolstoelplek vooraan](images/Bioscoopzaal-Forum.jpg)<!-- .element height="80%" width="40%" -->
+![Bioscoprzaal rolstoelplek vooraan](images/Bioscoopzaal-Forum.jpg)<!-- .element height="20%" width="20%" -->
 
 Note:
 - Plan rolstoelplekken: zo moet het niet.
@@ -441,7 +456,26 @@ Hoeft niet meer te kosten!
 
 ![Uitstal beleid voorbeeld 1](images/Uitstalling-beleid-1.JPG)<!-- .element height="80%" width="40%" -->
 ![Uitstal beleid voorbeeld 2](images/Uitstalling-beleid-2.JPG)<!-- .element height="80%" width="40%" -->
-!
+
+--
+
+<!-- .slide: data-menu-title="Voorbeelden (1)" -->
+## Containers
+![Glascontainer onbereikbaar](images/Alvalcontainer-onbereikbaar.jpg)<!-- .element height="40%" width="40%" -->
+
+Note:
+- Meedoen aan de maatschappij wordt je niet altijd makkelijk gemnaakt
+
+--
+
+<!-- .slide: data-menu-title="Voorbeelden (2)" -->
+## Containers
+
+![Onhandig containertuintje](images/Container-tuintje.jpg)<!-- .element height="40%" width="40%" -->
+
+Note:
+-  Tuintje is Goed bedoeld, maar niet afgestemd en ios belemmerend
+
 ---
 
 <!-- .slide: data-menu-title="Vragen" data-transition="convex" -->
@@ -453,7 +487,7 @@ Hoeft niet meer te kosten!
 
 ## Tekening lezen 
 
-Korte introductie tekening lezen
+Korte introductie tekening lezen <!-- .element: "r-fit-text" -->
 
 ---
 
