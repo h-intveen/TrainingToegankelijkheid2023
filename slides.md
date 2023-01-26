@@ -443,7 +443,7 @@ Note:
 
 ---
 
-<!-- .slide: data-menu-title="Introductie (6)" data-background-image="images/puzzle.jpg" data-background-opacity="0.1" background-size: contain -->
+<!-- .slide: data-menu-title="Toegankelijkheid plannen (1)" data-background-image="images/puzzle.jpg" data-background-opacity="0.1" background-size: contain -->
 ## Toegankelijkheid plannen
 
 Betrek ervaringsdeskundigen
@@ -454,26 +454,27 @@ Toegankelijkheid meenemen in PvE
 
 Hoeft niet meer te kosten!
 
-![Uitstal beleid voorbeeld 1](images/Uitstalling-beleid-1.JPG)<!-- .element height="80%" width="40%" -->
-![Uitstal beleid voorbeeld 2](images/Uitstalling-beleid-2.JPG)<!-- .element height="80%" width="40%" -->
-
 --
 
-<!-- .slide: data-menu-title="Voorbeelden (1)" -->
-## Containers
-![Glascontainer onbereikbaar](images/Alvalcontainer-onbereikbaar.jpg)<!-- .element height="40%" width="40%" -->
+<!-- .slide: data-menu-title="Toegankelijkheid plannen (2)" -->
+## Zones in straten
+
+![Uitstal beleid voorbeeld 1](images/Uitstalling-beleid-1.JPG)<!-- .element height="70%" width="40%" -->
+![Uitstal beleid voorbeeld 2](images/Uitstalling-beleid-2.JPG)<!-- .element height="70%" width="40%" -->
 
 Note:
-- Meedoen aan de maatschappij wordt je niet altijd makkelijk gemnaakt
+- Is er een loopzone zonder obstakels?
+- Hoe breedt?
 
 --
 
-<!-- .slide: data-menu-title="Voorbeelden (2)" -->
+<!-- .slide: data-menu-title="Toegankelijkheid plannen (3)" -->
 ## Containers
-
+![Glascontainer onbereikbaar](images/Alvalcontainer-onbereikbaar.jpg)<!-- .element height="40%" width="40%" -->
 ![Onhandig containertuintje](images/Container-tuintje.jpg)<!-- .element height="40%" width="40%" -->
 
 Note:
+- Meedoen aan de maatschappij wordt je niet altijd makkelijk gemnaakt
 -  Tuintje is Goed bedoeld, maar niet afgestemd en ios belemmerend
 
 ---
