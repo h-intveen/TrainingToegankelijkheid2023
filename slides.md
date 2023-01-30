@@ -68,17 +68,17 @@ Note:
 <!-- .slide: data-menu-title="Introductie (3)"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.1"; background-size:contain -->
 ## Ook in beeldvorming 
 
-Uw gemeentelijk:
+Gemeentelijke communicatie:
 
 - Presentatiemateriaal
 - Foto's
 
-Zijn vast wel inclusief v.w.b. etniciteit en man/vrouw
+is vast wel inclusief v.w.b. etniciteit en man/vrouw
 
 Maar gebruikt u ook gewone afbeeldingen met:
 - Rolstoeler
-- Blinde/slectziende
-- Audoidescriptie / Tolk
+- Blinde/slechtziende
+- Audiodescriptie / Tolk
 
 
 ---
@@ -207,11 +207,9 @@ Note:
 
 - Afstand tot halte of entree
 - Route naar halte of entree obstakelvrij
-- Route met contrastmarkering/geleidelij?
+- Route met contrastmarkering/geleidelijn?
 
-![Laantaarnpaal in geleidelijn](images/Lantaarn-in-geleidelijn.png)<!-- .element height="56%" width="60%" -->
-
-![Abri toegankelijkheid](images/Abri-toegankelijkheid.jpg)<!-- .element height="90%" width="90%" -->
+![Laantaarnpaal in geleidelijn](images/Lantaarn-in-geleidelijn.png)<!-- .element height="40%" width="40%" -->
 
 Note:
 - Geleidelijn:
@@ -219,10 +217,15 @@ Note:
   - Gemeente en aannemer moeten beter bewust worden
   - Handhaven helaas niet wettelijk verplicht
 
-- Abri:
-  -  Soms kun je niet eens op de verhoging komen
-  -  Je kunt er nauwelijks tussendoor
-  -  Je kunt nauwelijks schuilen bij regen
+--
+
+## OV - abri
+
+![Abri toegankelijkheid](images/Abri-toegankelijkheid.jpg)<!-- .element height="40%" width="40%" -->
+
+-  Soms kun je niet eens op de verhoging komen
+-  Je kunt er nauwelijks tussendoor
+-  Je kunt nauwelijks schuilen bij regen
 
 --
 
@@ -233,20 +236,22 @@ Note:
 
 --
 
-## Aanlooproute
+## Aanlooproute (1)
 
 - Route (van parkeerplaats) naar entree obstakelvrij
 - Route (van parkeerplaats) naar entree verhard?
 - Stoeprand verlaagd
 - Hellingbaan aanwezig
 
-![Laadpaal verspert trottoir](images/Laadpaal-trottoir.jpeg)<!-- .element height="50%" width="50%" -->
+![Laadpaal verspert trottoir](images/Laadpaal-trottoir.jpeg)<!-- .element height="30%" width="30%" -->
+![Fietsoverlast op de stoep](images/Fietsoverlast-1.png)<!-- .element height="30%" width="30%" -->
 
-![Fietsoverlast op de stoep](images/Fietsoverlast-1.png)<!-- .element height="90%" width="90%" -->
+--
 
-![Parkeerbord verspert stoep](images/ParkeerbordVersperring.JPG)<!-- .element height="90%" width="90%" -->
+# Aanlooproute (2)
 
-![Versperring doorgang zebra](images/Plaatsing-kiosk.png)<!-- .element height="90%" width="90%" -->
+![Parkeerbord verspert stoep](images/ParkeerbordVersperring.JPG)<!-- .element height="40%" width="40%" -->
+![Versperring doorgang zebra](images/Plaatsing-kiosk.png)<!-- .element height="40%" width="40%" -->
 
 Note:
 - Niet alleen issue voor rolstoelen, ook blinden, rollators, kinderwagens
@@ -255,6 +260,7 @@ Note:
 
 --
 
+<!-- .slide: data-background-image="images/20120411-Feithhuis-Groningen.jpg"; data-background-opacity="0.2"; background-size:contain -->
 ## Entree
 
 - Hoofdingang toegankelijk
@@ -266,9 +272,7 @@ Note:
 - Opstelruimte bij deur (scootmobiel/rollator)
 - Oplaadpunten accu's (scootmobiel/fiets)
 
-![Munumentaal pand](images/20120411-Feithhuis-Groningen.jpg)<!-- .element height="90%" width="90%" -->
-
-![Hellingbaan versperd](images/Helling-ontoegankelijk.jpg)<!-- .element height="40%" width="40%" -->
+![Hellingbaan versperd](images/Helling-ontoegankelijk.jpg)<!-- .element height="20%" width="20%" -->
 
 Note:
 Gebruikelijk argument: hier komt nooit iemand met een rolstoel
@@ -317,8 +321,8 @@ Note:
 - Lift bedieningspaneel met relief
 - Verdiepingen hoorbaar aangegeven
 
-![Lift bij trap](images/Lift-trap-gevaarlijk.JPG)<!-- .element height="50%" width="50%" -->
-![MiVa-bedieningspaneelLift](images/MiVa-Bedieningspaneel-lift.jpg)<!-- .element height="50%" width="50%" -->
+![Lift bij trap](images/Lift-trap-gevaarlijk.JPG)<!-- .element height="40%" width="40%" -->
+![MiVa-bedieningspaneelLift](images/MiVa-Bedieningspaneel-lift.jpg)<!-- .element height="40%" width="40%" -->
 
 Note:
 - Spiegel op achterwand lift
@@ -340,7 +344,7 @@ Note:
 
 --
 
-## Santitair
+## Sanitair
 
 - Bewegwijzering naar toilet
 - Route toilet obstakelvrij
@@ -352,13 +356,15 @@ Note:
 - Spegel bruikbaar rolstoeler (onderkant 70 cm)
 - Verschoonvoorziening
 
+
 --
-<split wrap="4">
-![MiVa-toilet te krap](images/Toilet-Vapiano.JPG) <!-- .element: class="fragment" data-fragment-index="1" height="50%" width="50%"  -->
-![MiVa-toilet wastafel](images/Toilet-goede-wastafel.JPG) <!-- .element: class="fragment" data-fragment-index="2" height="50%" width="50%" -->
-![MiVa-toilet deurbeugel](images/Toiletdeur-met-beugel.jpg) <!-- .element: class="fragment" height="50%" width="50%" data-fragment-index="3" -->
-![MiVa-toilet toilet met steun](images/Toilet-MiVa.jpg) <!-- .element: class="fragment" data-fragment-index="4" height="50%" width="50%" -->
-</split>
+
+<div class="r-stack">
+<img class="fragment" height="70%" width="70%" src="images/Toilet-Vapiano.JPG">
+<img class="fragment" height="70%" width="70%" src="images/Toilet-goede-wastafel.JPG">
+<img class="fragment" height="70%" width="70%" src="images/Toiletdeur-met-beugel.jpg">
+<img class="fragment" height="70%" width="70%" src="images/Toilet-MiVa.jpg">
+</div>
 
 Note:
 - MiVa-Toilet ontbreekt nog papierrolhouder em handdoek: in overleg met ervaringsdeskundigen
@@ -464,7 +470,7 @@ Hoeft niet meer te kosten!
 
 Note:
 - Is er een loopzone zonder obstakels?
-- Hoe breedt?
+- Hoe breed?
 
 --
 
