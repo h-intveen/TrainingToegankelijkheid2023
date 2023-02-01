@@ -378,13 +378,15 @@ Note:
 - Stoelen met rug en armleuningen
 - Tafels verlicht
 
+![Terras tafel](images/Terras.JPG)<!-- .element height="40%" width="40%" -->
+
 --
 
 ## Hotel
 
 - Route naar kamer drempelvrij
 - Route met versmallingen
-- Kamerdeur metr weinig kracht te openen
+- Kamerdeur met weinig kracht te openen
 - Hoogte lichtschakelaar
 - Voldoende opstelruimte naast bed
 - Is er een hoog/laag bed
@@ -445,7 +447,7 @@ Note:
   - Hoogteverschil hellingbaan
 - Nooddeur met weing kracht te openen
 
-![Nooduitgang niet doorgankelijk](images/Nooduitgang-niet-doorgankelijk.JPG)<!-- .element height="80%" width="40%" -->
+![Nooduitgang niet doorgankelijk](images/Nooduitgang-niet-doorgankelijk.JPG)<!-- .element height=" 20%" width="20%" -->
 
 ---
 
